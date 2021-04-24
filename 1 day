@@ -1,0 +1,4 @@
+num=int(inpute())
+num1=10
+sum=num1+num
+print(sum)
